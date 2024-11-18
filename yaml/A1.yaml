@@ -1,0 +1,6 @@
+motor:
+  type: A1
+  pose: 05.1
+  send: 0
+  kp: 0.0015
+  kd: 0.002
