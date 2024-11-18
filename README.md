@@ -23,7 +23,7 @@ make
 ```
 
 ### Run
-If the compilation is successful, many C++ example executable files will be generated in the build folder. Then run the examples with 'sudo', for example:
+If the compilation is successful, a C++ executable will be generated in the build folder. Then run the example with 'sudo', for example:
 ```bash
 sudo ./example_a1_motor
 ```
